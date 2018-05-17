@@ -1,0 +1,17 @@
+C:\Users\schra\Desktop\DevCodeCamp\C#\BinarySearchTree\BinarySearchTreeTest\bin\Debug\Microsoft.VisualStudio.TestPlatform.MSTest.TestAdapter.dll
+C:\Users\schra\Desktop\DevCodeCamp\C#\BinarySearchTree\BinarySearchTreeTest\bin\Debug\Microsoft.VisualStudio.TestPlatform.MSTestAdapter.PlatformServices.Interface.dll
+C:\Users\schra\Desktop\DevCodeCamp\C#\BinarySearchTree\BinarySearchTreeTest\bin\Debug\Microsoft.VisualStudio.TestPlatform.MSTestAdapter.PlatformServices.dll
+C:\Users\schra\Desktop\DevCodeCamp\C#\BinarySearchTree\BinarySearchTreeTest\bin\Debug\BinarySearchTreeTest.dll
+C:\Users\schra\Desktop\DevCodeCamp\C#\BinarySearchTree\BinarySearchTreeTest\bin\Debug\BinarySearchTreeTest.pdb
+C:\Users\schra\Desktop\DevCodeCamp\C#\BinarySearchTree\BinarySearchTreeTest\bin\Debug\BinarySearchTree.exe
+C:\Users\schra\Desktop\DevCodeCamp\C#\BinarySearchTree\BinarySearchTreeTest\bin\Debug\Microsoft.VisualStudio.TestPlatform.TestFramework.dll
+C:\Users\schra\Desktop\DevCodeCamp\C#\BinarySearchTree\BinarySearchTreeTest\bin\Debug\Microsoft.VisualStudio.TestPlatform.TestFramework.Extensions.dll
+C:\Users\schra\Desktop\DevCodeCamp\C#\BinarySearchTree\BinarySearchTreeTest\bin\Debug\BinarySearchTree.pdb
+C:\Users\schra\Desktop\DevCodeCamp\C#\BinarySearchTree\BinarySearchTreeTest\bin\Debug\BinarySearchTree.exe.config
+C:\Users\schra\Desktop\DevCodeCamp\C#\BinarySearchTree\BinarySearchTreeTest\bin\Debug\Microsoft.VisualStudio.TestPlatform.TestFramework.xml
+C:\Users\schra\Desktop\DevCodeCamp\C#\BinarySearchTree\BinarySearchTreeTest\bin\Debug\Microsoft.VisualStudio.TestPlatform.TestFramework.Extensions.xml
+C:\Users\schra\Desktop\DevCodeCamp\C#\BinarySearchTree\BinarySearchTreeTest\obj\Debug\BinarySearchTreeTest.csprojResolveAssemblyReference.cache
+C:\Users\schra\Desktop\DevCodeCamp\C#\BinarySearchTree\BinarySearchTreeTest\obj\Debug\BinarySearchTreeTest.csproj.CoreCompileInputs.cache
+C:\Users\schra\Desktop\DevCodeCamp\C#\BinarySearchTree\BinarySearchTreeTest\obj\Debug\BinarySearchTreeTest.csproj.CopyComplete
+C:\Users\schra\Desktop\DevCodeCamp\C#\BinarySearchTree\BinarySearchTreeTest\obj\Debug\BinarySearchTreeTest.dll
+C:\Users\schra\Desktop\DevCodeCamp\C#\BinarySearchTree\BinarySearchTreeTest\obj\Debug\BinarySearchTreeTest.pdb

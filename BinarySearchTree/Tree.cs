@@ -6,9 +6,11 @@ using System.Threading.Tasks;
 
 namespace BinarySearchTree
 {
-    class Tree
+    public class Tree
     {
         List<string> directions = new List<string>();
+        public string directionsString;
+        
 
         public Node AddNode(Node node, int value)
         {
@@ -33,11 +35,15 @@ namespace BinarySearchTree
             return node;
         }
 
-        public Node FindValue(Node node, int value)
+        public bool FindValue(Node node, int value)
         {
-            if (node.value == value)
+            if (node == null)
             {
-                return node;
+                return false;
+            }
+            else if (node.value == value)
+            {
+                return true;
             }
             else if (node.value > value)
             {
@@ -51,9 +57,11 @@ namespace BinarySearchTree
                 FindValue(node.right, value);
             }
 
+            
             Console.WriteLine(directions);
+            directionsString = string.Join(", ", directions.ToArray());
 
-            return node;
+            return true;
         }
 
     }
